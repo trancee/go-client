@@ -1,4 +1,4 @@
-module github.com/nftstorage/go-client
+module github.com/trancee/go-client
 
 go 1.13
 
